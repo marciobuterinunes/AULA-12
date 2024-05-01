@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #086AA7, #0289A7);
+    display: flex;
+    justify-content: center;
+    align-items: top;
+  }
+
+  main {
+    background-color: white;
+    padding: 5px 30px 30px 30px;
+    border-radius: 1%;
+    width: 60%;
+    text-align: center;
+  }
+
+  h1{
+    color: blue;
+           }
+
+  h2{
+    color:#086AA7;
+    text-align: left;
+  }
+
+p{
+  text-align: center;
+}
